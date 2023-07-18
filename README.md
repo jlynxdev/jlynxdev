@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jacek
+- 👀 I’m interested in Java, AI, Android development and neuroinformatics
+- 🌱 I’m currently learning advanced Java, JavaScript and related technologies
+- 💞️ I’m looking to collaborate on an open-source project
