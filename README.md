@@ -5,6 +5,7 @@
 - 👀 I’m interested in Java, AI, Android development and neuroinformatics
 - 🔭 I’m currently improving my [language learning app](https://github.com/jacekode/lang-control)
 - 🌱 I’m currently learning advanced Java, JavaScript and related technologies
+- 🎹 My hobbies are music and 🌍 language learning 
 - 💞️ I’m looking to collaborate on a Java-based open-source project
 
 <h3 align="left">Languages and Tools:</h3>
