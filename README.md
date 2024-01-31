@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jacek
 
-### A passionate Java developer
+### A passionate software developer
 
 - 👀 I’m interested in Java, AI, Android development and neuroinformatics
 - 🔭 My most recent project is a [language learning app](https://github.com/jacekode/lang-control)
