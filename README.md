@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Jacek</h1>
-<h3>A software developer, computer science student, a fan of Java and ML</h3>
+<h3>A software developer, Computer Science student, a fan of Java and ML</h3>
 
 - 🔭 I’m currently working on **Java and Python projects**
-- 🌱 I’m currently growing in **Java and Deep Learning**
+- 🌱 I’m currently growing in **Java and Machine Learning**
 - ❤️ My other passions include language learning 🌐 and music 🎵
 - ⚡ Fun fact: **I keep confusing zucchini with eggplant** 🍆
 
