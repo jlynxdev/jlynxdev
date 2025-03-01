@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Java and Python projects**
 - 🌱 I’m currently growing in **Java and Machine Learning**
 - ❤️ My other passions include language learning 🌐 and music 🎵
-- ⚡ Fun fact: **I keep confusing zucchini with eggplant** 🍆
+- ⚡ Fun fact: **I keep confusing zucchini with eggplant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
